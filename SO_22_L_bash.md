@@ -51,3 +51,7 @@ done
 # la testare
 # de schimbat drepturile la un fisier, copiere si creare de fisiere (windows si linux)
 ```
+
+- `chmod 777 nume_script.sh` - modificare permisiuni fisier cu `chmod` 
+- afisare argumente linie comanda, afisare prim argument, afisare fisierele txt de la folderul dat ca arg, afisare pentru fiecare fisier txt din folder dat ca argument linie comanda numarul de linii, copiat fisierele date ca argument in alt folder daca acestea au permisiune de execute.
+- Cum se foloseste while (cu shift) si for: https://linuxconfig.org/how-do-i-print-all-arguments-submitted-on-a-command-line-from-a-bash-script
